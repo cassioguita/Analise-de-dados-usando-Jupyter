@@ -1,2 +1,2 @@
-# Analise de dados de clientes de uma academia ( o fim do sepulcro )
- Gerador de relatorio usando jupyter. Exemplificando quais pontos a melhorar nos planos das academias dando uma analise geral sobre seus clientes ativos e inadiplentes e o que precisa ser melhorado. Impacto que reduzimos os cancelamentos de 56% para 18% com esta solução.
+# Analise de dados de cancelamentos 
+ Gerador de relatorio usando jupyter. Exemplificando quais pontos a melhorar nos planos oferecidos, dando uma analise geral sobre seus clientes ativos e inadiplentes, identificando o porque do alto numero de cancelamento dos clientes. Com essa analise  reduzimos os cancelamentos de 56% para 18% com esta solução.
